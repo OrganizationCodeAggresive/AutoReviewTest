@@ -7,4 +7,4 @@ When performing a code review, apply the following rules to all C# code:
 - Flag any method longer than 35 lines as needing refactoring.
 - Flag any public API method or class that lacks corresponding unit test coverage.
 - Flag any class that has public fields instead of properties.
-- Flag any method that has more than 3 parameters as needing refactoring.
+- Flag any method that has more than 4 parameters as needing refactoring.
