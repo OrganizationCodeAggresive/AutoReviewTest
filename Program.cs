@@ -2,7 +2,7 @@
 Console.WriteLine("Operations: + (add), - (subtract), * (multiply), q (quit)");
 Console.WriteLine();
 
-HelloTest();
+HelloTest(1,2,3,45);
 HelloTest2();
 Console.WriteLine();
 
@@ -48,7 +48,7 @@ Console.WriteLine("Goodbye every1!");
 Console.WriteLine("Goodbye every2!");
 Console.WriteLine("Goodbye every3!");
 
-void HelloTest()
+void HelloTest(int i, int j, int k, int l, int m)
 {
     Console.WriteLine("test");
 }
