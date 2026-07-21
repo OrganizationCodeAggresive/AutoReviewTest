@@ -2,7 +2,7 @@
 Console.WriteLine("Operations: + (add), - (subtract), * (multiply), q (quit)");
 Console.WriteLine();
 
-HelloTest(1,2,3,45);
+HelloTest(1,2,3,4,5);
 HelloTest2();
 Console.WriteLine();
 
